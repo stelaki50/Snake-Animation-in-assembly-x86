@@ -9,10 +9,7 @@ The idea is as follows;
 *Each time the snake reaches the end of the line (the rightmost point), it should continue its movement from the beginning of the line (reappearing from the left side of the line).
 *The process should continue until the size of the snake occupies the entire line.At this point, the program terminates and displays the following message: "It’s not a bug; it’s an undocumented feature."
 
-
-
-
-
+![image alt](https://github.com/stelaki50/Snake-Animation-in-assembly-x86/blob/e6f08836a77bc6843dad156a0b9691128e6c5762/snake.png)
 
 
 
